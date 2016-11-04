@@ -25,7 +25,7 @@ SECRET_KEY = '&2t*yku@abu*m49#ps82)u)w&zc%t#ymq0@g#2&n-+52!+764#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['machen.pythonanywhere.com']
 
 
 # Application definition
